@@ -1,0 +1,74 @@
+title = "My Blog"
+baseURL = 'https://LooninS.github.io/hugo-blog/'
+
+# This is what goes in <html lang="">
+locale = 'en-us'
+
+# This defines how dates are formatted
+defaultContentLanguage = "en"
+
+# Enable emojis globally
+enableEmoji = true
+ignoreErrors = ["additional-script-loading-error"]
+
+# Theme
+theme = "hugo-blog-awesome"
+
+[services]
+  [services.googleAnalytics]
+    id = ''
+  [services.disqus]
+    shortname = ''
+
+# set markup.highlight.noClasses=false to enable code highlight
+[markup]
+  [markup.highlight]
+    noClasses = false
+  [markup.goldmark.renderer]
+    unsafe = true
+  [markup.tableOfContents]
+    startLevel = 2
+    endLevel = 4
+    ordered = false
+
+[menu]
+[[menu.main]]
+  pageRef = "/"
+  name = 'Home'
+  url = '/'
+  weight = 10
+[[menu.main]]
+  pageRef = "posts"
+  name = 'Posts'
+  url = '/posts/'
+  weight = 20
+[[menu.main]]
+  pageRef = "about"
+  name = 'About'
+  url = '/about/'
+  weight = 30
+
+[params]
+  sitename = "My Blog"
+  defaultColor = "dark"
+  description = "A minimal Hugo blog with dark mode support"
+  mainSections = ['posts']
+  toc = true
+  tocOpen = false
+  goToTop = true
+  dateFormat = ""
+  rssFeedDescription = "summary"
+
+[params.author]
+  avatar = "avatar.jpg"
+  intro = "My Blog"
+  name = "Author"
+  description = "A blog about technology, code, and ideas."
+
+[[params.socialIcons]]
+name = "github"
+url = "https://github.com"
+
+[[params.socialIcons]]
+name = "Rss"
+url = "/index.xml"
