@@ -2,7 +2,6 @@
 title: Bandit Level 8 → Level 9
 date: 2020-07-13
 tags: [bandit, linux, OTW, walkthrough]
-the password for the next level is stored in a file somewhere under the inhere directory and has all of the following properties.
 description: The password for the next level is stored in the file data.txt and is the only line of text that occurs only once.
 ---
 # Bandit Level 8 → Level 9
