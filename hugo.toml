@@ -1,5 +1,5 @@
-title = "My Blog"
-baseURL = 'https://LooninS.github.io/hugo-blog/'
+title = "Low Latency Log"
+baseURL = '/loonins.github.io/lowlatencylog/'
 
 # This is what goes in <html lang="">
 locale = 'en-us'
@@ -61,14 +61,14 @@ theme = "hugo-blog-awesome"
 
 [params.author]
   avatar = "avatar.jpg"
-  intro = "My Blog"
-  name = "Author"
-  description = "A blog about technology, code, and ideas."
+  intro = "low latency log"
+  name = "Sourish Awasthi"
+  description = "A devlog of things I learn. I want to try learn new things and write about them."
 
 [[params.socialIcons]]
 name = "github"
-url = "https://github.com"
+url = "https://github.com/LooninS"
 
 [[params.socialIcons]]
-name = "Rss"
-url = "/index.xml"
+name = "linkedin"
+url = "https://www.linkedin.com/in/sourish-awasthi-040982395/"
