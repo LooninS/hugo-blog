@@ -5,7 +5,6 @@ tags: [OTW, linux, walkthrough, bandit]
 description: The password for the next level is stored in a file called readme located in the home directory.
 ---
 # Bandit Level 0 → Level 1
-#OTW #linux #walkthrough #bandit
 [OverTheWire: Level Goal](https://overthewire.org/wargames/bandit/bandit1.html)
 ## Task
 The password for the next level is stored in a file called **readme** located in the home directory.

@@ -5,7 +5,6 @@ tags: [bandit, linux, walkthrough, OTW]
 description: The password for the next level is stored in a hidden file in the inhere directory.
 ---
 # Bandit Level 3 → Level 4
-#bandit #linux #OTW #walkthrough 
 ## Login
 SSH: `ssh bandit3@bandit.labs.overthewire.org -p 2220`
 Password: `MNk8KNH3Usiio41PRUEoDFPqfxLPlSmx`

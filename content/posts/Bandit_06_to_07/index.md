@@ -5,7 +5,6 @@ tags: [bandit, linux, walkthrough, otw]
 description: the password for the next level is stored somewhere on the server and has all of the following properties.
 ---
 # bandit level 6 → level 7
-#bandit #linux #otw #walkthrough 
 ## login
 ssh: ssh bandit6@bandit.labs.overthewire.org -p 2220
 ***

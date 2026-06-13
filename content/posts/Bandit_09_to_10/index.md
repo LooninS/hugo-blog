@@ -5,7 +5,6 @@ tags: [bandit, linux, otw, walkthrough]
 description: The password for the next level is stored in the file data.txt in one of the few human-readable strings, preceded by several ‘=’  characters.
 ---
 # Bandit Level 9 → Level 10
-#bandit #linux #otw #walkthrough 
 ## Level Goal
 The password for the next level is stored in the file data.txt in one of the few human-readable strings, preceded by several  ‘=’  characters.
 ***

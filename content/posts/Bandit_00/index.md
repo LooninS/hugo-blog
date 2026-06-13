@@ -6,7 +6,6 @@ description: OverTheWire Bandit level 0 Walkthrough
 tags: [OverTheWire, bandit, linux]
 ---
 # OverTheWire Bandit level 0 Walkthrough
-#walkthrough #bandit #OTW #linux 
 [OverTheWire: Level Goal](https://overthewire.org/wargames/bandit/bandit0.html)
 ## Introduction
 [OverTheWire](https://overthewire.org/) is a great platform “to learn and practice security concepts in the form of fun-filled games.” It has several so-called “wargames,” each focused on a different area of security.

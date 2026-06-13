@@ -5,7 +5,6 @@ tags: [bandit, linux, OTW, walkthrough]
 description: Get the password from the file called '-'.
 ---
 # Bandit Level 1 → Level 2
-#bandit #linux #OTW #walkthrough 
 ## Login
 SSH: `ssh bandit1@bandit.labs.overthewire.org -p 2220`
 Password: `ZjLjTmM6FvvyRnrb2rfNWOZOTa6ip5If`

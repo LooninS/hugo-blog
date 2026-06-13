@@ -5,7 +5,6 @@ tags: [bandit, linux, otw, walkthrough]
 description: find the password for the next level in the inhere directory.
 ---
 # bandit level 5 → level 6
-#bandit #linux #otw #walkthrough 
 ## login 
 ssh: `ssh bandit5@bandit.labs.overthewire.org -p 2220`
 password: `4oqyvpkxzooeoo5ptw81fb8j8lxxguqw`

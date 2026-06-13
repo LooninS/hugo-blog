@@ -5,7 +5,6 @@ description: Bandit Level 2 → Level 3
 tags: [bandit, linux, walkthrough, OTW]
 ---
 # Bandit Level 2 → Level 3
-#bandit #linux #walkthrough #OTW 
 ## Login
 SSH: `ssh bandit2@bandit.labs.overthewire.org -p 2220`
 Password: `263JGJPfgU6LtdEvgfWU1XP5yac29mFx`

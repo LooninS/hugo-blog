@@ -5,7 +5,6 @@ tags: [bandit, linux, walkthrough, otw]
 description: The password for the next level is stored in the file data.txt next to the word millionth
 ---
 # Bandit Level 7 → Level 8
-#bandit #linux #otw #walkthrough 
 ## Level Goal
 The password for the next level is stored in the file data.txt next to the word millionth
 ***
