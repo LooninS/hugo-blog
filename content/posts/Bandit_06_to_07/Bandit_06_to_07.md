@@ -2,7 +2,7 @@
 title: bandit level 6 → level 7
 date: 2026-07-13
 tags: [bandit, linux, walkthrough, otw]
-description: the password for the next level is stored in a file somewhere under the inhere directory and has all of the following properties:
+description: the password for the next level is stored somewhere on the server and has all of the following properties.
 ---
 # bandit level 6 → level 7
 #bandit #linux #otw #walkthrough 
