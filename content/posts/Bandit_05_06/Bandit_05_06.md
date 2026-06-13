@@ -64,4 +64,4 @@ now that i have narrowed down the sample size, i can run `ls -la` on the result 
 ls -al ./inhere/maybehere07/.file2
 ```
 ---
-[next level](bandit_06_07)
+[next level](../Bandit_06_to_07/Bandit_06_to_07.md)

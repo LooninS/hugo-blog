@@ -34,4 +34,4 @@ Alternatively, I could also use the option delimiter:
 bandit1@bandit:~$ cat -- -
 ```
 ---
-[Level 03](Bandit_02_03.md)
+[next level](../Bandit_02_03/Bandit_02_03.md)
