@@ -34,5 +34,5 @@ Finally, I printed the file contents with:
 ```bash
 bandit0@bandit:~$ cat readme
 ```
-[Next Level](../Bandit_01_02/Bandit_01_02.md)
+[Next Level](../../posts/Bandit_01_02/)
 

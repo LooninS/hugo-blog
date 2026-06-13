@@ -52,4 +52,4 @@ Or I could let Tab completion handle the ugly escaping for me:
 bandit2@bandit:~$ cat ./--spaces\ in\ this\ filename--
 ```
 ---
-[Next Level](../Bandit_03_04/Bandit_03_04.md)
+[Next Level](../../posts/Bandit_03_04/)

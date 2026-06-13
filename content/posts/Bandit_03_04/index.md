@@ -33,4 +33,4 @@ bandit3@bandit:~$ ls -a inhere
 bandit3@bandit:~$ cat inhere/...Hiding-From-You 
 ```
 ----
-[Next Level](../Bandit_04_05/Bandit_04_05.md)
+[Next Level](../../posts/Bandit_04_05/)
