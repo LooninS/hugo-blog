@@ -1,3 +1,10 @@
+---
+title: Bandit Level 8 → Level 9
+date: 2020-07-13
+tags: [bandit, linux, OTW, walkthrough]
+the password for the next level is stored in a file somewhere under the inhere directory and has all of the following properties.
+description: The password for the next level is stored in the file data.txt and is the only line of text that occurs only once.
+---
 # Bandit Level 8 → Level 9
 #bandit #linux #OTW #walkthrough
 ## Level Goal
@@ -16,7 +23,7 @@ Back to the manual I went, and there was the crucial detail I'd missed:
 DESCRIPTION
        Filter adjacent matching lines from INPUT (or standard input), writing to OUTPUT (or standard output).
 ```
-And there is the issue, the `uniq` only works on lines next to each other, meaning if line above and below a line is different it not omitted even if it's repeated elsewhere. I had to use `sort` to sort the lines in the file.
+And there is the issue, the `uniq` only works on lines next to each other, meaning if line above and below a line is different it's not omitted even if it's repeated elsewhere. I had to use `sort` to sort the lines in the file.
 
 ```bash
 bandit8@bandit:~$ sort data.txt

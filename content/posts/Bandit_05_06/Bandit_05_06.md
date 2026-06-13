@@ -1,10 +1,15 @@
+---
+title: bandit level 5 → level 6
+date: 2026-07-13
+tags: [bandit, linux, otw, walkthrough]
+description: find the password for the next level in the inhere directory.
+---
 # bandit level 5 → level 6
 #bandit #linux #otw #walkthrough 
 ## login 
 ssh: `ssh bandit5@bandit.labs.overthewire.org -p 2220`
 password: `4oqyvpkxzooeoo5ptw81fb8j8lxxguqw`
-
----
+***
 ## level goal
 the password for the next level is stored in a file somewhere under the inhere directory and has all of the following properties:
 - human-readable
@@ -12,7 +17,7 @@ the password for the next level is stored in a file somewhere under the inhere d
 - not executable
 ---
 ## rambling 
-n the last level, i used the `file` command to detect human-readable files.  
+In the last level, I used the `file` command to detect human-readable files.  
 `grep` searches the given lines for a specific pattern defined by the user, or the opposite using the `-v` flag.  
 the pipe `|` operator takes the output of one command and sends it as input to the next one. a command like `<command1> | grep <pattern>` is useful here because it lets me filter command output.
 

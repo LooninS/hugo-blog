@@ -1,14 +1,18 @@
+---
+title: Bandit Level 2 → Level 3
+date: 2026-06-13
+description: Bandit Level 2 → Level 3
+tags: [bandit, linux, walkthrough, OTW]
+---
 # Bandit Level 2 → Level 3
 #bandit #linux #walkthrough #OTW 
 ## Login
 SSH: `ssh bandit2@bandit.labs.overthewire.org -p 2220`
 Password: `263JGJPfgU6LtdEvgfWU1XP5yac29mFx`
-
----
+***
 ## Task
 Get the password from the file called `--spaces in this filename--`.
-
----
+***
 This filename is a nightmare because it mixes hyphens and spaces. Nobody in their right mind does this, so use underscores like a sane person.
 
 When I first tried to `cat --spaces in this filename--`, it failed immediately. The command interpreted `--spaces` as an option and treated the rest of the name (`in`, `this`, `filename--`) as separate files that do not exist.

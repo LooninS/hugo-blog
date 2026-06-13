@@ -1,10 +1,14 @@
+---
+title: bandit level 5 → level 6
+date: 2026-07-13
+tags: [bandit, linux, walkthrough, otw]
+description: the password for the next level is stored in a file somewhere under the inhere directory and has all of the following properties:
+---
 # bandit level 6 → level 7
 #bandit #linux #otw #walkthrough 
 ## login
 ssh: ssh bandit6@bandit.labs.overthewire.org -p 2220
-password: 
-
----
+***
 ## level goal
 the password for the next level is stored somewhere on the server and has all of the following properties:
 - owned by user bandit7

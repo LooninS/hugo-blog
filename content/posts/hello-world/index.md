@@ -7,43 +7,15 @@ description: "Welcome to my new blog built with Hugo and the Blog Awesome theme.
 Welcome to my new blog! 🎉 This is my very first post, and I'm excited to start sharing my thoughts, projects, and ideas here.
 <!--more-->
 
-## Why Hugo?
+I wanted to start by bit of an introduction to myself.
 
-I chose [Hugo](https://gohugo.io/) as my static site generator for several reasons:
-
-- **Speed**: Hugo is the world's fastest framework for building websites
-- **Simplicity**: Write content in Markdown, Hugo does the rest
-- **Flexibility**: Thousands of themes and customization options
-- **Free hosting**: Easily deployed on GitHub Pages
-
-## About This Theme
-
-This blog uses the [Hugo Blog Awesome](https://github.com/hugo-sid/hugo-blog-awesome) theme, which features:
-
-- 🌙 **Dark mode support** — easy on the eyes
-- 📱 **Responsive design** — looks great on any device
-- ⚡ **Blazing fast** — 100/100 PageSpeed score
-- 📰 **Clean UI** — focus on content
-
-## What's Next?
-
-I plan to write about:
-
-1. **Technology** — tools and frameworks I find interesting
-2. **Coding** — tutorials and project walkthroughs
-3. **Ideas** — thoughts on software development and beyond
-
-Stay tuned for more posts! If you have any topics you'd like me to cover, feel free to reach out.
-
-## Code Example
-
-Here's a quick Hugo shortcode example:
-
-```go
-{{ define "main" }}
-  <h1>{{ .Title }}</h1>
-  {{ .Content }}
-{{ end }}
-```
-
-Thanks for reading! 🚀
+## About Me
+My name is &&, and I'm a 2nd year IT student at the IIIT Allahabad. I'm passionate about learning how code actually works, and sometimes that involves breaking it. I want to explore how software I use actually work, solve a few CTF and share them here.
+I'm also a big fan of Linux, and I've been using it for a while now(I use Arch,btw).I have been taking a bit of dive into linux source code 
+to learn more about operating system, so going to write more on that, along with C++. 
+## My Blog
+This blog is built with [Hugo](https://gohugo.io/) and the [Blog Awesome](https://themes.gohugo.io/hugo-blog-awesome/) theme. It uses GitHub Pages to deploy the site.
+I am no master of CSS, and I wanted something quick and easy to mantain.
+***
+Thanks for reading!
+***

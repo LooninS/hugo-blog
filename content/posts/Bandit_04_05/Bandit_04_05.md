@@ -1,19 +1,24 @@
-# Bandit Level 4 → Level 
+---
+title: Bandit Level 4 → Level 5
+date: 2026-07-13
+tags: [bandit, linux, walkthrough, OTW]
+description: The password for the next level is stored in the only human-readable file in the inhere directory.
+---
+# Bandit Level 4 → Level 5
 #bandit #linux #OTW #walkthrough 
 ## Login
 SSH `ssh bandit4@bandit.labs.overthewire.org -p 2220`
 Password:  `2WmrDFRmJIq3IPxneAaMGhap0pFhF3NJ`
+***
 ## Level Goal
 The password for the next level is stored in the only human-readable file in the inhere directory. 
-
----
+***
 ## Rambling
 There are 10 files in the directory, but only one is human-readable, i.e. a text file.  
 I have the option to use a brute-force approach to find the password by catting each file one by one, but that is not very efficient.  
 It is much more efficient to use the `file` command to check the type of each file and then use `cat` to view the contents.  
 `file` determines the file type.
-
----
+***
 ## Solution
 First, verify the files with `ls`:
 ```bash
