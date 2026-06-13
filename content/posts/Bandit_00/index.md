@@ -74,6 +74,6 @@ This runs:
 bandit1@bandit.labs.overthewire.org -p 2220
 ```
 ---
-*[Level 1](../../posts/bandit_01_02/)*
+*[Level 1](../../posts/bandit_00_01/)*
 
 
