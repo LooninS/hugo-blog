@@ -1,3 +1,10 @@
+---
+title: OverTheWire Bandit level 0 Walkthrough
+date: 2020-07-01T00:00:00-05:00
+categories: [OverTheWire]
+description: OverTheWire Bandit level 0 Walkthrough
+tags: [OverTheWire, bandit, linux]
+---
 # OverTheWire Bandit level 0 Walkthrough
 #walkthrough #bandit #OTW #linux 
 [OverTheWire: Level Goal](https://overthewire.org/wargames/bandit/bandit0.html)
