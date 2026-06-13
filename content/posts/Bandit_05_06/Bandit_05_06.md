@@ -1,6 +1,6 @@
 ---
 title: bandit level 5 → level 6
-date: 2026-07-13
+date: 2026-06-13
 tags: [bandit, linux, otw, walkthrough]
 description: find the password for the next level in the inhere directory.
 ---

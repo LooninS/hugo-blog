@@ -1,6 +1,6 @@
 ---
 title: Bandit Level 3 → Level 4
-date: 2026-07-13
+date: 2026-06-13
 tags: [bandit, linux, walkthrough, OTW]
 description: The password for the next level is stored in a hidden file in the inhere directory.
 ---

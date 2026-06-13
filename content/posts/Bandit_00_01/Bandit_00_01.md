@@ -1,6 +1,6 @@
 ---
 title: Bandit Level 0 → Level 1
-date: 2026-07-11
+date: 2026-06-11
 tags: [OTW, linux, walkthrough, bandit]
 description: The password for the next level is stored in a file called readme located in the home directory.
 ---

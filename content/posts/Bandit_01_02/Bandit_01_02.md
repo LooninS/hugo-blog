@@ -1,6 +1,6 @@
 ---
 title: Bandit Level 1 → Level 2
-date: 2026-07-11
+date: 2026-06-11
 tags: [bandit, linux, OTW, walkthrough]
 description: Get the password from the file called '-'.
 ---
